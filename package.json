@@ -1,0 +1,20 @@
+{
+  "name": "express-api-project",
+  "version": "1.0.0",
+  "description": "A APi project using express.js to simulate a back-end javascript service.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "express": "4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "1.14.11"
+  }
+}
